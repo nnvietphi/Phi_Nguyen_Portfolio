@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Phi Nguyen</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on Phi Nguyen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2024 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling the Performance of A Movie Rental Business: An SQL Analysis</title>
+      <link>http://localhost:1313/blogs/sql/</link>
+      <pubDate>Mon, 01 Apr 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/sql/</guid>
+      <description>I was tasked with a vital project to analyze the performance of our Movie Rental Business, with a focus on providing valuable insights for potential acquirers and enhancing our company’s ability to showcase its strengths. Through detailed SQL queries, I aimed to deliver a clear and compelling picture of the business&amp;rsquo;s operational health and financial performance.&#xA;1. Understanding Our Customer Base To begin with, I tackled the challenge of understanding our customer base.</description>
+    </item>
+    <item>
+      <title>Streamlining Scholarship Management with Excel: A Success Story</title>
+      <link>http://localhost:1313/blogs/excel/</link>
+      <pubDate>Mon, 03 Apr 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/excel/</guid>
+      <description>I was given an exciting challenge by my professor: to create an Excel sheet that could support a department at the University of South Florida. I saw this as a perfect opportunity to make a real impact, so I decided to propose my project to the USF Scholarship Department. I knew that managing and updating student scholarships had been a huge task for them, filled with the complexities of recalculating amounts, adjusting for GPA changes, and maintaining accuracy across various files.</description>
+    </item>
+  </channel>
+</rss>
